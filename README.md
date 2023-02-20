@@ -1,2 +1,2 @@
 # BioScripts
-A set of mini scripts developed for different biological analysis
+A set of scripts developed for different biological analysis
